@@ -1,4 +1,4 @@
-## Agent Memory Attack 使用说明（给老师看的版本）
+## Agent Memory Attack 使用说明
 
 本文件夹 `memory_attack` 是你在本机上用来复现与扩展 **智能体记忆 / 检索投毒攻击** 的工作目录，主要基于：
 
